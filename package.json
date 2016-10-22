@@ -1,0 +1,12 @@
+{
+  "name": "tuber-client",
+  "version": "1.0.0",
+  "description": "Tuber Client",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:darcu/tuber-client.git",
+    "type": "git"
+  },
+  "author": "Lucian Parfeni <darcu.ro@gmail.com>",
+  "license": "MIT"
+}
